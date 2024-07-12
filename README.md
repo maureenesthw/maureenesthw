@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Maureen</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-![a cat coding](cat-coder.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maureenesthw/maureenesthw/main/cat-coder.gif" width="50%">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
