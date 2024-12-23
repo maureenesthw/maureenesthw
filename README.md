@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Maureen</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate software engineer from Indonesia</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maureenesthw/maureenesthw/main/cat-coder.gif" width="50%">
 </div>
